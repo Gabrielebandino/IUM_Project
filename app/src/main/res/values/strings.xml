@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ium_gb</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="register_prompt">Non hai un account?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="dob">Date of Birth (dd/mm/yyyy)</string>
+    <string name="password">Password</string>
+</resources>
